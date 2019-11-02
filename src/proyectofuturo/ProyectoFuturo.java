@@ -8,7 +8,7 @@ public class ProyectoFuturo {
         
         System.out.println(veredicto(args[2],args[1]));
     }
-    static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
         
         if (valor1.equals(valor2)) {
             return "Bien. Pero una hora de estudio para cada módulo puede ser insuficiente.";
