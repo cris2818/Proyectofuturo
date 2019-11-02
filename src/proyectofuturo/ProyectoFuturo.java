@@ -1,3 +1,5 @@
+/* Cristina Tremiño Girona */
+
 package proyectofuturo;
 
 public class ProyectoFuturo {
